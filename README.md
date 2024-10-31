@@ -1,6 +1,6 @@
 ## Intrusion Detection Model for IEEE TSYP CIS Challenge
 
-This notebook was developed for the **10th IEEE Tunisian Students and Young Professionals (TSYP) Congress**, organized by the IEEE Computational Intelligence Society - Tunisia Section in December 2022.
+This notebook was developed for the **10th IEEE Tunisian Students and Young Professionals (TSYP) Congress**, organized by the IEEE Computational Intelligence Society (CIS) - Tunisia Section in December 2022.
 
 ### Task
 
